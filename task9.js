@@ -1,0 +1,16 @@
+var a= 5;
+var b =3;
+var c= a -b;
+document.write("<br>" + "Subtraction of " + a + " and " + b +" is " + c);
+var a= 3;
+var b =5;
+var c= a *b;
+document.write("<br>" +"Multipliation of " + a + " and " + b +" is " + c);
+var a= 15;
+var b =5;
+var c= a /b;
+document.write("<br>" +"Division of " + a + " and " + b +" is " + c);
+var a= 3;
+var b =5;
+var c= a %b;
+document.write("<br>" +"Mod of " + a + " and " + b +" is " + c);
